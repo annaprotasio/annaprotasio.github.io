@@ -4,11 +4,13 @@ title: "Teaching"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/teaching_GC.jpeg" style="width:40%; border:5px solid; margin-left: 20px" align="right"> 
+
 **Helminth Bioinformatics** is an emerging subject in parasitology. The need for a tailored course where participants can learn how to tackle the difficulties of dealing with big, repetitive genomes of non-model organisms, for which little supprot exists elsewhere. Alongside coleagues from the Wellcome Genome Campus Advanaced Courses and Conferences, we designed this 5-day residental overseas course that takes participants from using the very basic skills of "internet bioinformatics" on day 1 to be self-sulfficient and independently analyse comples genomic and transcriptomic data by day 5 of the course. We ran this course for the first time in September 2019 at the University of Accra, Ghana. We are hoping to deliver this course again soon in Thailand and in Uruguay. 
 Check it out:
 [Helminth Bioinformatics](https://coursesandconferences.wellcomegenomecampus.org/our-events/helminth-bioinformatics-ghana-2019/).   
 
-**Online courses** have been a mayor contribution in my career. I am a true believer in online and social learning. Alongside the Wellcome Genome Campus Advanced Courses and FutureLearn (a branch of the OpenUniversity) I led the development of three online courses covering various aspects of Bacterial Bioinformatics. These courses are a very gentle introduction to computational biology. 
+**Online courses** have been a major contribution in my career. I am a true believer in online and social learning. Alongside the Wellcome Genome Campus Advanced Courses and FutureLearn (a branch of the OpenUniversity) I led the development of three online courses covering various aspects of Bacterial Bioinformatics. These courses are a very gentle introduction to computational biology. 
 
 * Course 1: [Bacterial Genomics: From DNA to protein function](https://www.futurelearn.com/courses/bacterial-genomes-bioinformatics) 
 * Course 2: [Bacterial Genomics: Accessing and analysing bacterial genomes with Artemis](https://www.futurelearn.com/courses/bacterial-genomes-access-and-analysis)
