@@ -1,0 +1,27 @@
+name: "Anna V. Protasio"
+output_dir: "."
+navbar:
+  title: "Anna V. Protasio"
+  left:
+    - text: "Beginnings"
+      href: beginnings.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Teaching"
+      href: teaching.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/annaprotasio
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/annaprotasio
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/anna-v-protasio-7716b016/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

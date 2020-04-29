@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Anna V. Protasio</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="beginnings.html">Beginnings</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/annaprotasio">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/annaprotasio">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/anna-v-protasio-7716b016/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<!-- <style> -->
+<!-- img { -->
+<!--   display: block; -->
+<!--   margin-left: auto; -->
+<!--   margin-right: auto; -->
+<!-- } -->
+<!-- </style> -->
+<div id="summary" class="section level3">
+<h3>Summary</h3>
+<p>Transposable elements (TEs) are mobile genetic entities that exist in almost all genomes. They constitute almost 50% of the human genome and have a life cycle very similar to that of viruses, with the exception that they rarely exit the cell. Instead, TEs replicate and insert themselves in the genome, potentially disrupting the normal function of the cell. Because of their self-replicating capacity TEs are often considered invaders and even parasites of the “host” genome.</p>
+<p>I am interested in investigating the mechanisms by which the ‘host genome’ controls the activity of these TEs. This can be imagined as a sort of arms race, where TEs and the host genome fight for the genomic space. My work involves using computational biology tools (bioinformatics) to integrate data from genomes, next generation sequencing, RNA biology and more with the aim of understanding how these mechanisms have evolved in species of parasitic flatworms of clinical and veterinary importance.</p>
+</div>
+<div id="in-depth" class="section level3">
+<h3>In depth</h3>
+<p>Maintenance of genome integrity is an essential aspect of biology for all organisms. Mobile genetic elements, also known as transposable elements (TEs), are self-replicating entities found in almost all known genomes. Because of their autonomous and invasive nature, TEs have historically been referred to as ‘genomic parasites’ and the genome they colonised referred to as the ‘host genome’. The extent of invasion can be so dramatic that in some animal species, including humans and most parasitic flatworms, nearly 50% of the genome is occupied by TEs. Movement of TEs can be deleterious to the host organism; for example, a new TE insertion within an essential gene may cause disease (e.g. certain cases of haemophilia); however, not all TE activity is detrimental. Growing evidence points to the role of TEs in shaping the evolution of genomes and regulation of gene expression networks. For example, the appearance of placental mammals is linked to the ‘domestication’ of a TE gene. Therefore, a more modern approach conceives of TEs as potential endosymbionts of their host genomes.</p>
+<p>In order to control the activity of TEs, organisms from plants to humans have developed elegant molecular mechanisms to tame these self-interested entities. There are two main strategies by which the host genome can exert control of TEs: epigenetic and post-transcriptional. Epigenetic control relies on DNA and/or histone modifications at the TE genomic locus, leading to suppression of activity. Post-transcriptional control involves targeted degradation of the RNA intermediate required by the TE to undergo replication. The host genome takes advantage of this characteristic and mounts an RNA interference (RNAi)-like mechanism that prevents TE replication by degrading the TE RNA intermediate.</p>
+<p><img src="images/nuclear_silencing.jpg" style="width:50%; border:5px solid; margin-right: 20px; float:left" ></p>
+<p>This is a highly conserved function but the molecular mechanisms used to implement it vary greatly across the tree of life, indicating independent evolutionary origins. Despite this, there are two elements common to all these pathways: <strong>small RNAs</strong> (~ 20-30nt long) with sequence complementarity to nascent TE transcripts that drive slicer enzymes from the <strong>Argonaute</strong> family to trigger TE RNA degradation (Figure). The origin of these small RNAs can vary among species: in the classical example of the mouse and human male germline, a particular type of small RNAs called piwi-RNAs (piRNAs) are transcribed from genomic clusters and loaded into a special group of Argonaute proteins called PIWI proteins. The PIWI-piRNA complex then degrades the TE RNA intermediates and in doing so prevents TE re-insertion in the genome. In other examples, an auxiliary enzyme called Dicer produces Argonaute-ready small RNAs from a double stranded RNA (dsRNA). Organisms including Caenorhabditis elegans and some plants, convert single stranded RNA (ssRNA) into dsRNA using an RNA-dependent RNA-polymerase (RDRP).</p>
+<p>Parasitic flatworms lack both the canonical piRNA pathway characterised by PIWI proteins (6,7) and the RNA-dependent RNA-polymerase ubiquitous in species in which the piRNA pathway is absent. They do have a set of Dicer and Argonaute enzymes suggesting that some key players of the post-transcriptional control of TEs are present. In particular, flatworm Argonautes are phylogenetically distinct from model organism Argonautes and PIWI proteins. They are also found in very low numbers: parasitic flatworms only have three Argonaute proteins (6) while nematodes have more than twenty (8). Parasitic flatworms present an exciting opportunity to uncover novel molecular pathways for post-transcriptional TE control.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
