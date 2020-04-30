@@ -15,7 +15,7 @@ img {
 <img src="images/banner-1559400_1920.jpg" style="width:75%; border:5px solid" >
 
 
-This is the list of my publications. Listed first are those in which I have been either the firt author or senior author. The most recent list of published work can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=C2OdtP0AAAAJ&view_op=list_works&sortby=pubdate)
+This is the list of my publications. Listed first are those in which I have been either the first or senior author. The most recent list of published work can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=C2OdtP0AAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
