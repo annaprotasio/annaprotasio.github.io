@@ -73,7 +73,7 @@ Fitzsimmons CM, Jones FM, Pinot de Moira A, **Protasio AV**, Khalife J, Dickinso
 Parikh PP, Zheng J, Logan-Klumper F, Stoeckert CJ Jr, Louis C, Topalis P, **Protasio AV**, Sheth AP, Carrington M, Berriman M, Sahoo SS. **The Ontology for Parasite Lifecycle (OPL): towards a consistent vocabulary of lifecycle stages in parasitic organisms.** [J Biomed Semantics. 2012 May 23;3(1):5](http:\\dx.doi.org/10.1186/2041-1480-3-5). PMID: 22621763.
 
 Laing R, Hunt M, **Protasio AV**, Saunders G, Mungall K, et al.
-**Annotation of two large contiguous regions from the _Haemonchus contortus_ genome using RNA-seq and comparative analysis with _Caenorhabditis elegans_**.[PLoS One 6(8): e23216.](http:\\dx.doi.org/10.1371/journal.pone.0023216). PMID: 21858033.
+**Annotation of two large contiguous regions from the _Haemonchus contortus_ genome using RNA-seq and comparative analysis with _Caenorhabditis elegans_**.[PLoS One. 2011;6(8):e23216.](http:\\dx.doi.org/10.1371/journal.pone.0023216). PMID: 21858033.
 
 Otero L, Bonilla M, **Protasio AV**, Ferández C, Gladyshev VN, Salinas G. **Thioredoxin and glutathione systems differ in parasitic and free-living platyhelminths.**
 [BMC Genomics. 2010 Apr 13;11:237.](http:\\dx.doi.org/10.1186/1471-2164-11-237). PMID: 20385027.

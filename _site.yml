@@ -11,6 +11,8 @@ navbar:
       href: publications.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Opportunities"
+      href: opportunities.html
 
   right:
     - icon: fa-envelope fa-lg

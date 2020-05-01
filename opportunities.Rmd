@@ -1,0 +1,29 @@
+---
+title: "Opportunities"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/group_discuss.jpg" style="width:50%; border:5px solid; margin-left: 20px" align="right"> 
+
+Many people have helped me in my career and I want to be able to help you in yours. At the moment, my group cannot provide funding for students or postdocs (I am wokring on that though!). But, if you would like to gain experience in computational biology and bioinformatics, do [get in touch](mailto:avp25@cam.ac.uk). There is much data to be analysed!
+
+Some examples of available topics and the skills you will develop are:
+
+- Repeat content of genomes
+  - finding repeat and transposable elements in genomes
+  - genomic organisation
+  - phylogeny and classificaion
+  - expression and mechanisms of control
+
+- Differential gene expression analyses
+  - access next generation sequencing data from the web (shell/bash scripting)
+  - quantification of gene expression (shell/bash scripting)
+  - comparative analysis (R/Rstudio)
+  - time series
+
+My main focus is on the **genomics and molecular biology of parasites** but I am open to work on other organisms if there is an interesting biological research question. 
+
+
+  
+  
