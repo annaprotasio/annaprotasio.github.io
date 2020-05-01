@@ -43,7 +43,7 @@ Maintenance of genome integrity is an essential aspect of biology for all organi
 In order to control the activity of TEs, organisms from plants to humans have developed elegant molecular mechanisms to tame these self-interested entities. There are two main strategies by which the host genome can exert control of TEs: epigenetic and post-transcriptional. Epigenetic control relies on DNA and/or histone modifications at the TE genomic locus, leading to suppression of activity. Post-transcriptional control involves targeted degradation of the RNA intermediate required by the TE to undergo replication. The host genome takes advantage of this characteristic and mounts an RNA interference (RNAi)-like mechanism that prevents TE replication by degrading the TE RNA intermediate.
 
 <figure style="width: 50%; float:left; margin-right: 20px">
-  <p><img src="images/nuclear_silencing.jpg"
+  <p><img src="images/nuclear_silencing.png"
     alt="schistosomes">
   <figcaption>Schematic representation of two known post-transcriptional mechanisms of TE control in model organisms </figcaption>
 </figure>

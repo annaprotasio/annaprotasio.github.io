@@ -54,7 +54,7 @@ Marelli S, Williamson JC, **Protasio AV**, Naamati A, Greenwood JED, Deane JE, L
 Douse CH, Tchasovnikarova IA, Timms RT, **Protasio AV**, Seczynska M, Prigozhin DM, Albecka A, Wagstaff J, Williamson JC, Freund SWV, Lehner PJ, Modis Y. **TASOR is a pseudo-PARP that directs HUSH complex assembly and epigenetic transposon control**.
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.09.974832v1)
 
-Wangwiwatsin A, **Protasio AV**, Wilson S, Owusu C, Holroyd NE, Sanders MJ, Keane J, Doenhoff MJ, Rinaldi G, Berriman M. **Transcriptome of the parasitic flatworm _Schistosoma mansoni_ during intra-mammalian development**. [bioRxiv](https://www.biorxiv.org/content/10.1101/757633v1)
+Wangwiwatsin A, **Protasio AV**, Wilson S, Owusu C, Holroyd NE, Sanders MJ, Keane J, Doenhoff MJ, Rinaldi G, Berriman M. **Transcriptome of the parasitic flatworm _Schistosoma mansoni_ during intra-mammalian development**. [PLoS Negl Trop Dis. 2020 May 6;14(5):e0007743.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007743)
 
 Crosnier C, **Protasio AV**, Rinaldi G, Wilson S, Berriman M, Wright GJ. **A library of cell-surface and secreted proteins from _Schistosoma mansoni_ identifies early serological markers of infection**. 
 [bioRxiv](https://www.biorxiv.org/content/10.1101/593616v1)
