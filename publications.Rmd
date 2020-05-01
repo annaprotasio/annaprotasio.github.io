@@ -4,15 +4,23 @@ title: "Publications"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+<!-- <style> -->
+<!-- img { -->
+<!--   display: block; -->
+<!--   margin-left: auto; -->
+<!--   margin-right: auto; -->
+<!-- } -->
+<!-- </style> -->
 
-<img src="images/banner-1559400_1920.jpg" style="width:75%; border:5px solid" >
+<!-- <img src="images/banner-1559400_1920.jpg" style="width:75%; border:5px solid" > -->
+
+<div>
+<img src="images/book-1659717_1920.jpg" style="float: left;width:25%;margin-bottom:0.5cm" />
+<img src="images/book-1659717_1920.jpg" style="float: left;width:25%;margin-bottom:0.5cm" />
+<img src="images/book-1659717_1920.jpg" style="float: left;width:25%;margin-bottom:0.5cm" />
+<img src="images/book-1659717_1920.jpg" style="float: left;width:25%;margin-bottom:0.5cm" />
+<div>
+
 
 
 This is the list of my publications. Listed first are those in which I have been either the first or senior author. The most recent list of published work can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=C2OdtP0AAAAJ&view_op=list_works&sortby=pubdate)
