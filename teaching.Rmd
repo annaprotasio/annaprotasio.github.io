@@ -10,11 +10,13 @@ title: "Teaching"
 Check it out:
 [Helminth Bioinformatics](https://coursesandconferences.wellcomegenomecampus.org/our-events/helminth-bioinformatics-ghana-2019/).   
 
-**Online courses** have been a major contribution in my career. I am a true believer in online and social learning. Alongside the Wellcome [Wellcome Genome Campus Advanaced Courses and Conferences](https://coursesandconferences.wellcomegenomecampus.org/) and [FutureLearn](https://www.futurelearn.com/) (a branch of the OpenUniversity) I led the development of three online courses covering various aspects of Bacterial Bioinformatics. These courses are a very gentle introduction to computational biology. 
+**Online courses** have been a major contribution in my career. I am a true believer in online and social learning. Alongside the Wellcome [Wellcome Genome Campus Advanaced Courses and Conferences](https://coursesandconferences.wellcomegenomecampus.org/) and [FutureLearn](https://www.futurelearn.com/) (a branch of the OpenUniversity) I led the development of three online courses covering various aspects of Bacterial Genomics and Bioinformatics. These courses are a very gentle introduction to computational biology. 
 
 * Course 1: [Bacterial Genomics: From DNA to protein function](https://www.futurelearn.com/courses/bacterial-genomes-bioinformatics) 
 * Course 2: [Bacterial Genomics: Accessing and analysing bacterial genomes with Artemis](https://www.futurelearn.com/courses/bacterial-genomes-access-and-analysis)
 * Course 3: [Bacterial Genomics: Comparative genomics with Artemis Comparison Tool ACT ](https://www.futurelearn.com/courses/bacterial-genomes-comparative-genomics-act)
+
+The release of the first course was launched in this [News Item](https://www.sanger.ac.uk/news_item/new-online-course-introduces-bioinformatics-address-skills-gap/)
 
 I have also participate in more _traditional_ teching in the form of lectures and practical demostrations that are part of the Parasitology Course at the Dept of Pathology, University of Cambridge. My lectures cover **Trematode** and **Cestode** Biology. 
 
