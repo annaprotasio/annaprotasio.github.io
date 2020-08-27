@@ -57,7 +57,8 @@ Douse CH, Tchasovnikarova IA, Timms RT, **Protasio AV**, Seczynska M, Prigozhin 
 Wangwiwatsin A, **Protasio AV**, Wilson S, Owusu C, Holroyd NE, Sanders MJ, Keane J, Doenhoff MJ, Rinaldi G, Berriman M. **Transcriptome of the parasitic flatworm _Schistosoma mansoni_ during intra-mammalian development**. [PLoS Negl Trop Dis. 2020 May 6;14(5):e0007743.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007743)
 
 Crosnier C, **Protasio AV**, Rinaldi G, Wilson S, Berriman M, Wright GJ. **A library of cell-surface and secreted proteins from _Schistosoma mansoni_ identifies early serological markers of infection**. 
-[bioRxiv](https://www.biorxiv.org/content/10.1101/593616v1)
+[J Infect Dis. 2020 Jun 10;jiaa329.](https://doi.org/10.1093/infdis/jiaa329)
+
 
 Hernández-Goenaga J, López-Abán J, **Protasio AV**, Vicente Santiago B, Del Olmo E, Vanegas M, Fernández-Soto P, Patarroyo MA, Muro A. **Peptides Derived of Kunitz-Type Serine Protease Inhibitor as Potential Vaccine Against Experimental Schistosomiasis.** [Front Immunol. 2019 Nov 1;10:2498](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02498/full). PMID: 31736947.
 
