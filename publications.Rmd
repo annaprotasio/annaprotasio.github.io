@@ -93,7 +93,8 @@ Berriman M, Haas BJ, LoVerde PT, Wilson RA, Dillon GP, ... **Protasio AV** ... _
 Fitzpatrick JM, **Protasio AV**, McArdle AJ, Williams GA, Johnston DA, Hoffmann KF.
 **Use of genomic DNA as an indirect reference for identifying gender-associated transcripts in morphologically identical, but chromosomally distinct, _Schistosoma mansoni_ cercariae.** [PLoS Negl Trop Dis. 2008;2(10):e323.](http:\\dx.doi.org/10.1371/journal.pntd.0000323). PMID: 18941520.
 
-
+Bonilla M, Denicola A, Novoselov SV, Turanov AA, Protasio A, Izmendi D, Gladyshev VN, Salinas G. 
+**Platyhelminth mitochondrial and cytosolic redox homeostasis is controlled by a single thioredoxin glutathione reductase and dependent on selenium and glutathione**. [J Biol Chem. 2008 Jun 27;283(26):17898-907](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440607/). PMID: 18408002.
 
 
 
