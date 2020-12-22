@@ -49,52 +49,50 @@ Book Chapter, Cantacessi C and **Protasio AV**. (2018)  **``Fundamentals of Bioi
 ### In collaboration
 
 Marelli S, Williamson JC, **Protasio AV**, Naamati A, Greenwood JED, Deane JE, Lehner PJ, Matheson NJ. **Antagonism of PP2A is an independent and conserved function of HIV-1 Vif and causes cell cycle arrest**.
-[eLife 2020;9:e53036 DOI: 10.7554/eLife.53036.](https://elifesciences.org/articles/53036) PMID: 32292164.
+[eLife 2020](https://elifesciences.org/articles/53036) PMID: 32292164.
 
 Douse CH, Tchasovnikarova IA, Timms RT, **Protasio AV**, Seczynska M, Prigozhin DM, Albecka A, Wagstaff J, Williamson JC, Freund SWV, Lehner PJ, Modis Y. **TASOR is a pseudo-PARP that directs HUSH complex assembly and epigenetic transposon control**.
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.09.974832v1)
+[Nat Commun 2020](https://www.nature.com/articles/s41467-020-18761-6)
 
-Wangwiwatsin A, **Protasio AV**, Wilson S, Owusu C, Holroyd NE, Sanders MJ, Keane J, Doenhoff MJ, Rinaldi G, Berriman M. **Transcriptome of the parasitic flatworm _Schistosoma mansoni_ during intra-mammalian development**. [PLoS Negl Trop Dis. 2020 May 6;14(5):e0007743.](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007743)
+Wangwiwatsin A, **Protasio AV**, Wilson S, Owusu C, Holroyd NE, Sanders MJ, Keane J, Doenhoff MJ, Rinaldi G, Berriman M. **Transcriptome of the parasitic flatworm _Schistosoma mansoni_ during intra-mammalian development**. [PLoS Negl Trop Dis. 2020](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007743)
 
-Crosnier C, **Protasio AV**, Rinaldi G, Wilson S, Berriman M, Wright GJ. **A library of cell-surface and secreted proteins from _Schistosoma mansoni_ identifies early serological markers of infection**. 
-[J Infect Dis. 2020 Jun 10;jiaa329.](https://doi.org/10.1093/infdis/jiaa329)
+Crosnier C, **Protasio AV**, Rinaldi G, Wilson S, Berriman M, Wright GJ. **A library of cell-surface and secreted proteins from _Schistosoma mansoni_ identifies early serological markers of infection**. [J Infect Dis. 2020](https://doi.org/10.1093/infdis/jiaa329)
 
+Hernández-Goenaga J, López-Abán J, **Protasio AV**, Vicente Santiago B, Del Olmo E, Vanegas M, Fernández-Soto P, Patarroyo MA, Muro A. **Peptides Derived of Kunitz-Type Serine Protease Inhibitor as Potential Vaccine Against Experimental Schistosomiasis.** [Front Immunol. 2019](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02498/full). PMID: 31736947.
 
-Hernández-Goenaga J, López-Abán J, **Protasio AV**, Vicente Santiago B, Del Olmo E, Vanegas M, Fernández-Soto P, Patarroyo MA, Muro A. **Peptides Derived of Kunitz-Type Serine Protease Inhibitor as Potential Vaccine Against Experimental Schistosomiasis.** [Front Immunol. 2019 Nov 1;10:2498](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02498/full). PMID: 31736947.
-
-Suttiprapa S, Rinaldi G, Tsai IJ, Mann VH, Dubrovsky L, Yan HB, Holroyd N,Huckvale T, Durrant C, **Protasio AV**, Pushkarsky T, Iordanskiy S, Berriman M, Bukrinsky MI, Brindley PJ. **HIV-1 Integrates Widely throughout the Genome of the Human Blood Fluke _Schistosoma mansoni_** [PLoS Pathog. 2016 Oct 20;12(10):e1005931](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005931). PMID: 27764257.
+Suttiprapa S, Rinaldi G, Tsai IJ, Mann VH, Dubrovsky L, Yan HB, Holroyd N,Huckvale T, Durrant C, **Protasio AV**, Pushkarsky T, Iordanskiy S, Berriman M, Bukrinsky MI, Brindley PJ. **HIV-1 Integrates Widely throughout the Genome of the Human Blood Fluke _Schistosoma mansoni_** [PLoS Pathog. 2016](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005931). PMID: 27764257.
 
 Lamolle G, **Protasio AV**, Iriarte A, Jara E, Simon D, Musto, H.
 **An isochore-like structure in the genome of the flatworm _Schistosoma mansoni_**
-[Genome Biol Evol. 2016 Aug 16;8(8):2312-8](http://dx.doi.org/10.1093/gbe/evw170). PMID:27435793.
+[Genome Biol Evol. 2016](http://dx.doi.org/10.1093/gbe/evw170). PMID:27435793.
 
-Winter AD, Gillan V, Maitland K, Emes RD, Roberts B, McCormack G, Weir W, **Protasio AV**, Holroyd N, Berriman M, Britton C, Devaney E. **A novel member of the let-7 microRNA family is associated with developmental transitions in filarial nematode parasites.** [BMC Genomics. 2015 Apr 22;16:331.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1536-y). PMID: 25896062.
+Winter AD, Gillan V, Maitland K, Emes RD, Roberts B, McCormack G, Weir W, **Protasio AV**, Holroyd N, Berriman M, Britton C, Devaney E. **A novel member of the let-7 microRNA family is associated with developmental transitions in filarial nematode parasites.** [BMC Genomics. 2015](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1536-y). PMID: 25896062.
 
 Horn M, Fajtová P, Rojo Arreola L, Ulrychová L, Bartošová-Sojková P, Franta Z, **Protasio AV**, Opavsky D, Vondrášek J, McKerrow JH, Mareš M, Caffrey CR, Dvorák J
 **Trypsin- and Chymotrypsin-like serine proteases in _Schistosoma mansoni_-- `the undiscovered country'**.
-[PLoS Negl Trop Dis. 2014 Mar 27;8(3):e2766.](http:\\dx.doi.org/10.1371/journal.pntd.0002766). PMID: 24676141.
+[PLoS Negl Trop Dis. 2014](http:\\dx.doi.org/10.1371/journal.pntd.0002766). PMID: 24676141.
 
 Zerlotini A, Aguiar E, Yu F, Xu H, Li Y, Young N, Gasser R, **Protasio AV**, Berriman M, Roos D, Kissinger J, Oliveira G. **SchistoDB: an updated genome resource for the three key schistosomes of humans.**.
-[Nucleic Acids Res. 2013 Jan;41(Database issue).](http:\\dx.doi.org/10.1093/nar/gks1087). PMID: 23161692.
+[Nucleic Acids Res. 2013](http:\\dx.doi.org/10.1093/nar/gks1087). PMID: 23161692.
 
-Fitzsimmons CM, Jones FM, Pinot de Moira A, **Protasio AV**, Khalife J, Dickinson HA, Tukahebwa EM, Dunne DW. **Progressive cross-reactivity in IgE responses: an explanation for the slow development of human immunity to schistosomiasis?** [Infect Immun. 2012 Dec;80(12):4264-70.](http:\\dx.doi.org/10.1128/IAI.00641-12). PMID: 23006852.
+Fitzsimmons CM, Jones FM, Pinot de Moira A, **Protasio AV**, Khalife J, Dickinson HA, Tukahebwa EM, Dunne DW. **Progressive cross-reactivity in IgE responses: an explanation for the slow development of human immunity to schistosomiasis?** [Infect Immun. 2012](http:\\dx.doi.org/10.1128/IAI.00641-12). PMID: 23006852.
 
-Parikh PP, Zheng J, Logan-Klumper F, Stoeckert CJ Jr, Louis C, Topalis P, **Protasio AV**, Sheth AP, Carrington M, Berriman M, Sahoo SS. **The Ontology for Parasite Lifecycle (OPL): towards a consistent vocabulary of lifecycle stages in parasitic organisms.** [J Biomed Semantics. 2012 May 23;3(1):5](http:\\dx.doi.org/10.1186/2041-1480-3-5). PMID: 22621763.
+Parikh PP, Zheng J, Logan-Klumper F, Stoeckert CJ Jr, Louis C, Topalis P, **Protasio AV**, Sheth AP, Carrington M, Berriman M, Sahoo SS. **The Ontology for Parasite Lifecycle (OPL): towards a consistent vocabulary of lifecycle stages in parasitic organisms.** [J Biomed Semantics. 2012](http:\\dx.doi.org/10.1186/2041-1480-3-5). PMID: 22621763.
 
 Laing R, Hunt M, **Protasio AV**, Saunders G, Mungall K, et al.
 **Annotation of two large contiguous regions from the _Haemonchus contortus_ genome using RNA-seq and comparative analysis with _Caenorhabditis elegans_**.[PLoS One. 2011;6(8):e23216.](http:\\dx.doi.org/10.1371/journal.pone.0023216). PMID: 21858033.
 
 Otero L, Bonilla M, **Protasio AV**, Ferández C, Gladyshev VN, Salinas G. **Thioredoxin and glutathione systems differ in parasitic and free-living platyhelminths.**
-[BMC Genomics. 2010 Apr 13;11:237.](http:\\dx.doi.org/10.1186/1471-2164-11-237). PMID: 20385027.
+[BMC Genomics. 2010](http:\\dx.doi.org/10.1186/1471-2164-11-237). PMID: 20385027.
 
 Berriman M, Haas BJ, LoVerde PT, Wilson RA, Dillon GP, ... **Protasio AV** ... _et al_. **The genome of the blood fluke _Schistosoma mansoni_**.
-[Nature. 2009 Jul 16;460(7253):352-8.](http://dx.doi.org/10.1038/nature08160). PMID: 19606141.
+[Nature. 2009](http://dx.doi.org/10.1038/nature08160). PMID: 19606141.
 
 Fitzpatrick JM, **Protasio AV**, McArdle AJ, Williams GA, Johnston DA, Hoffmann KF.
-**Use of genomic DNA as an indirect reference for identifying gender-associated transcripts in morphologically identical, but chromosomally distinct, _Schistosoma mansoni_ cercariae.** [PLoS Negl Trop Dis. 2008;2(10):e323.](http:\\dx.doi.org/10.1371/journal.pntd.0000323). PMID: 18941520.
+**Use of genomic DNA as an indirect reference for identifying gender-associated transcripts in morphologically identical, but chromosomally distinct, _Schistosoma mansoni_ cercariae.** [PLoS Negl Trop Dis. 2008](http:\\dx.doi.org/10.1371/journal.pntd.0000323). PMID: 18941520.
 
 Bonilla M, Denicola A, Novoselov SV, Turanov AA, Protasio A, Izmendi D, Gladyshev VN, Salinas G. 
-**Platyhelminth mitochondrial and cytosolic redox homeostasis is controlled by a single thioredoxin glutathione reductase and dependent on selenium and glutathione**. [J Biol Chem. 2008 Jun 27;283(26):17898-907](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440607/). PMID: 18408002.
+**Platyhelminth mitochondrial and cytosolic redox homeostasis is controlled by a single thioredoxin glutathione reductase and dependent on selenium and glutathione**. [J Biol Chem. 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440607/). PMID: 18408002.
 
 
 
