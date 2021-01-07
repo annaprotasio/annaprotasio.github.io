@@ -9,20 +9,6 @@ title: "Opportunities"
 <img src="images/group_discuss.jpg" style="width:50%; border:5px solid; margin-left: 20px" align="right"> 
 
 
-## BREAKING NEWS 
-
-### **A PhD scholarship is available in my group**
-
-#### *Impact of transposable elements in parasite genomes*
-
-Transposable elements are mobile genetic entities that can jump from place-to-place within the genome. They are present in almost all the genomes studied so far, from bacteria to humans, occupying varying proportions of the genome space. They occupy a significant proportion of the genomes of parasitic helminths, a group of clinical and veterinary pathogens responsible for millions of deaths and great economic losses in communities around the world. Using computational biology and genome analysis tools, you will unravel the diversity of transposable elements in parasitic helminths, their role in speciation, adaptation and potential role in the emergence of drug resistance.
-
-Please visit the Department of Pathology [website](https://www.path.cam.ac.uk/graduate/fully-funded-studentships) and download the [project details](https://www.path.cam.ac.uk/graduate/fully-funded-studentships/1ProtasioPhDWEB.pdf)
-
-For enquiries please [get in touch](mailto:avp25@cam.ac.uk)
-
----
-
 Many people have helped me in my career and I want to be able to help you in yours. At the moment, my group cannot provide funding for students or postdocs (I am working on that though!). Having a training position within my group will help you gain experience in computational biology, bioinformatics, molecular and systems biology and parasitology. 
 
 As a graduate student in my group, you will have to apply for [Graduate Admission](https://www.graduate.study.cam.ac.uk/courses/directory/blpampbsc) through the University's portal. Funding opportunitites are listed [here](https://www.graduate.study.cam.ac.uk/finance/funding-opportunities).
